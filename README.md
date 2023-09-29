@@ -22,7 +22,7 @@ Before running the application, make sure you have the following prerequisites i
 
 ## Installation and Usage
 1. Clone the repository using Git (or download the ZIP file and extract it).
-
+![Screenshot (37)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/2d35eb48-1caf-4af7-bbdd-72d3c7136ad5)
 ```bash
 git clone https://github.com/yourusername/your-repo.git
 Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
