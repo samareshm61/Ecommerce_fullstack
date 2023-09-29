@@ -30,6 +30,9 @@ JDBC
 ![Screenshot (37)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/2d35eb48-1caf-4af7-bbdd-72d3c7136ad5)
 ![Screenshot (73)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/3718eb71-5e93-4631-8df6-9d2c2a003a88)
 ![Screenshot (74)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/7230b025-b7ce-493a-8e62-381ac4299b91)
+![Screenshot (120)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/e43c09f7-082d-45e7-b51b-d6c43b2cce35)
+![Screenshot (146)](https://github.com/samareshm61/Ecommerce_fullstack/assets/100060477/8b1ea54d-04c9-4798-bde6-10602c01c39f)
+
 ## Installation and Usage
 1. Clone the repository using Git (or download the ZIP file and extract it).
 ```bash
